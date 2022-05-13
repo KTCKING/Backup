@@ -4,4 +4,3 @@
 2. 本站最终解释权归运营者所有。
 3. 访问密码请通过公众号获取。
 
-[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{USERNAME})](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
